@@ -13,38 +13,28 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m a <b className="purple">Full-Stack Developer</b> with
+              hands-on experience in building and deploying production-ready MERN
+              applications. I enjoy turning ideas into scalable systems with a
+              strong focus on user experience, backend reliability, and clean code.
               <br />
               <br />
-              I’m proficient in
+              My core stack includes
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript, Java, React.js, TypeScript, Node.js, Express.js,
+                  MongoDB, MySQL, and PostgreSQL{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              along with modern tools like Git, GitHub, Socket.io, Cloudinary,
+              and JWT authentication.
               <br />
               <br />
-              My key areas of interest include developing
-              <i>
-                <b className="purple">
-                  {" "}
-                  Web Applications, Blockchain Solutions,{" "}
-                </b>
-              </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
-              <br />
-              <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
-              <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
-              </i>
+              I’ve built AI-powered products, real-time chat platforms, and
+              business websites that are deployed and used in production. I am
+              especially interested in creating impactful digital products and
+              solving real-world problems with technology.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

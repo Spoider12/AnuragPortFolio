@@ -8,37 +8,40 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone! I’m <span className="purple">Soumyajit Behera</span>{" "}
-            from <span className="purple">Bhubaneswar, India</span>.
+            Hi everyone! I’m <span className="purple">Anurag Gautam</span>, a
+            full-stack developer focused on building clean, scalable, and
+            production-ready web applications.
             <br />
-            I’m currently working as a{" "}
-            <span className="purple">Software Developer</span> at{" "}
-            <span className="purple">Juspay</span>.
-            <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Mathematics and Computing</span> from{" "}
-            <span className="purple">BIT Mesra</span>.
+            I have experience building and deploying MERN applications, including
+            an AI-powered resume analysis platform using the Gemini API.
+            <br />
+            I recently completed my <span className="purple">B.Tech in Computer
+            Science (AI)</span> from <span className="purple">ABES Institute of
+            Technology, Ghaziabad</span>, graduating in June 2026.
             <br />
             <br />
-            Outside of coding, I love engaging in activities that keep me
-            creative and inspired:
+            My strengths include:
           </p>
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games 🎮
+              <ImPointRight /> Full-stack development with React, Node.js, and Express
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs ✍️
+              <ImPointRight /> REST API design, JWT authentication, and real-time messaging with Socket.io
             </li>
             <li className="about-activity">
-              <ImPointRight /> Traveling and Exploring New Places 🌍
+              <ImPointRight /> Database design using MongoDB, MySQL, and PostgreSQL
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Problem solving, DSA, and building projects that solve real-world challenges
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "I build products that are useful, reliable, and ready to scale."
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Anurag</footer>
         </blockquote>
       </Card.Body>
     </Card>
